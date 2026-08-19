@@ -2,6 +2,12 @@
 
 A small Flask web application that displays student marks in a readable table. It also calculates and shows the total marks and average marks.
 
+## Live Demo
+
+View the application online:
+
+https://glittering-pudding-320220.netlify.app/
+
 ## What This Project Shows
 
 - A simple Python Flask application
